@@ -1,7 +1,6 @@
 # Modelo Meteorológico HPC Sul do Brasil (Fase 2)
 
 **Autor:** Luiz Tiago Wilcke  
-**Versão:** 2.0 (Expansão Científica Massiva)  
 **Ano:** 2024  
 **Licença:** MIT
 
@@ -11,7 +10,6 @@
 
 Este projeto consiste em um **Modelo Meteorológico de Alta Performance (HPC)** desenvolvido para simular, prever e analisar fenômenos climáticos extremos na região Sul do Brasil (RS, SC, PR). O sistema utiliza equações diferenciais parciais (Navier-Stokes), termodinâmica atmosférica e métodos avançados de Inteligência Artificial para modelagem ambiental.
 
-A **Fase 2** expandiu significativamente o escopo original, introduzindo **50 novos módulos** abrangendo cinco novas fronteiras científicas:
 
 1.  **Inteligência Artificial (IA/ML):** Redes Neurais, LSTMs, Autoencoders e Clustering.
 2.  **Química Atmosférica:** Modelagem de ozônio, dispersão gaussiana, chuva ácida e aerossois.
